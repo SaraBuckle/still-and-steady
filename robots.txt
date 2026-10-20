@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://sarabuckle.github.io/still-and-steady/sitemap.xml
